@@ -38,4 +38,4 @@
 
 ![Pagina inicial site](https://user-images.githubusercontent.com/68083480/143929836-b18fcba9-5ff0-4100-af05-c97b4e1a44cf.png)
 
-Licença: 
+Licença: ![GNU AGPL](https://github.com/Nicolesilvaa/AlgoMat/blob/main/LICENSE)
