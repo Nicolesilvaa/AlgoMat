@@ -19,7 +19,7 @@
 
 # AlgoMat: Funcionalidades :chart_with_upwards_trend: :bar_chart:
 
-- _Nosso programa tem como finalidade  ajudar o usuário a identificar conceitos de funções a partir de gráficos.Os conceitos que apresentamos são:_
+- _Nosso programa tem como finalidade auxiliar estudantes no aprendizado da matemática. Inicialmente,  induz o usuário a  identificar conceitos de funções matemáticas a partir da obeservação de gráficos.Os conceitos que apresentamos são:_
 
    - _Quantidade de raízes de uma função;_
 
