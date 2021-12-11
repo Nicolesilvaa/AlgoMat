@@ -33,7 +33,7 @@
 
 # Nosso Site: :computer: 
 
-**Acesse nosso site** : https://sites.google.com/view/algomat/p%C3%A1gina-inicial
+**Acesse nosso site** : ![AlgoMat](https://sites.google.com/view/algomat/p%C3%A1gina-inicial)
 
 
 ![Pagina inicial site](https://user-images.githubusercontent.com/68083480/143929836-b18fcba9-5ff0-4100-af05-c97b4e1a44cf.png)
