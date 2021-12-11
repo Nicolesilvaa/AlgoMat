@@ -39,7 +39,7 @@ Licença : Este programa é software livre: você pode redistribuí-lo e/ou modi
 		//Raizes : Através de informações inseridas pelos usuários, informa quantas raizes a função possui 
 		inteiro interseccao_eixoX = 0
 		se(operacao_usuario == "QR"){
-			escreva("\nQuantas vezes o grafico da função corta o eixo X no plano cartesiano ? \n (obs: Limitamos a analise para ate 5 raizes) \n")
+			escreva("\nQuantas vezes o grafico da funcao corta o eixo X no plano cartesiano ? \n (obs: Limitamos a analise para ate 5 raizes) \n")
 			leia(interseccao_eixoX)
 				escolha(interseccao_eixoX){
 					caso 1:
@@ -206,7 +206,7 @@ Licença : Este programa é software livre: você pode redistribuí-lo e/ou modi
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 8688; 
+ * @POSICAO-CURSOR = 2641; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
