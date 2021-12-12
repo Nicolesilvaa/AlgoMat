@@ -33,9 +33,10 @@
 
 # Nosso Site: :computer: 
 
-**Acesse nosso site** : ![AlgoMat](https://sites.google.com/view/algomat/p%C3%A1gina-inicial)
+Acesse clicando aqui: _https://sites.google.com/view/algomat/p%C3%A1gina-inicial_
 
+![Pagina inicial site](https://user-images.githubusercontent.com/68083480/145719464-2fe2fe3a-48e1-44bc-b4fa-20b17af201a8.png)
 
-![Pagina inicial site](https://user-images.githubusercontent.com/68083480/143929836-b18fcba9-5ff0-4100-af05-c97b4e1a44cf.png)
+### ![_**Deixe aqui seu feedback**_](https://github.com/Nicolesilvaa/AlgoMat/discussions)
 
-Licença: ![GNU AGPL](https://github.com/Nicolesilvaa/AlgoMat/blob/main/LICENSE)
+### _**Licença:**_ ![GNU AGPL](https://github.com/Nicolesilvaa/AlgoMat/blob/main/LICENSE)
